@@ -8,8 +8,7 @@ We applied Logistic Regression, Decision Tree, Random Forest, and Adaboost algor
 \
 We got highest frequency with Random Forest which was around 85%.
 
-<img src = "Distibution by cause 2017.jpg" width = "400">
-<img src = "Distribution by method 2017.jpg" width = "350">
+<img src = "Distibution by cause 2017.jpg" width = "400"> <img src = "Distribution by method 2017.jpg" width = "350">
 
 We observed that frequency of certain causes of wildfire was pretty high but the area burnt was not that severe.  
 \
